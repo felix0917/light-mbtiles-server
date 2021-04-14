@@ -1,0 +1,21 @@
+{
+  "name": "light-mbtiles-server",
+  "description": "light-mbtiles-server",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@mapbox/mbtiles": "^0.11.0",
+    "koa": "^2.7.0",
+    "koa-cors": "0.0.16",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {},
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "readmeFilename": "README.md"
+}
