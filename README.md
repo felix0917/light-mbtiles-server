@@ -9,7 +9,8 @@
   链接：https://pan.baidu.com/s/1PMiym_LVgXaCoU2j0Rs9Qw 
 #### 3.natural_earth_2.raster.mbtiles
 链接：https://pan.baidu.com/s/1XfBgxrHU12Xe0iHv86yLXQ 
-提取码均为: gisd
+#### 提取码均为: gisd
+
 #### **install**
 ```
 npm install
