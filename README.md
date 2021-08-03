@@ -1,5 +1,5 @@
 # light-mbtiles-server
-一个极其轻量的，MBTiles矢量&栅格瓦片地图数据发布服务器，支持pbf、jpg/jpeg、png格式瓦片。
+一个极其轻量的，MBTiles矢量&栅格瓦片地图数据发布服务器，支持pbf、jpg/jpeg、png格式瓦片。并且提供北京市矢量数据，中国4-10级影像数据，全球影像数据的mbtiles格式下载。
 
 #### **load data**
 下载地图和影像数据后放置在mbtiles文件夹下，数据下载地址：| you should downloaded the map and image data are placed under the mbtiles folder, download address:
